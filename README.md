@@ -2,24 +2,16 @@
 
 *Cayman-Dark is an adaptation of the Cayman Jekyll theme for GitHub Pages.*
 
-You can preview the theme at [lewismiddleton.github.io/cayman-dark](http://lewismiddleton.github.io/cayman-dark).
+You can preview the theme at [lewismiddleton.github.io/cayman-dark](http://chailotl.github.io/cayman-dark).
 
-The dark mode functionality comes from Dark Reader which can be found here: [https://github.com/darkreader/darkreader](https://github.com/darkreader/darkreader)
+This uses [Dark Reader](https://github.com/darkreader/darkreader) as a base for the theme, and makes some much-needed tweaks to make the colors more cohesive.
 
 ## Usage
 
 To use the Cayman-Dark theme with Github Pages, add the following to your site's `_config.yml`:
 
 ```yml
-remote_theme: lewismiddleton/cayman-dark
-```
-
-By default pages will be in dark mode however you can make specific pages use light mode. All you need to do is include the following code at the top of your markdown files.
-
-```yaml
----
-light_mode: true
----
+remote_theme: chailotl/cayman-dark
 ```
 
 ## Original Theme
