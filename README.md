@@ -2,7 +2,7 @@
 
 *Cayman-Dark is an adaptation of the Cayman Jekyll theme for GitHub Pages.*
 
-You can preview the theme at [lewismiddleton.github.io/cayman-dark](http://chailotl.github.io/cayman-dark).
+You can preview the theme at [chailotl.github.io/cayman-dark](http://chailotl.github.io/cayman-dark).
 
 This uses [Dark Reader](https://github.com/darkreader/darkreader) as a base for the theme, and makes some much-needed tweaks to make the colors more cohesive.
 
