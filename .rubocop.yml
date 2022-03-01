@@ -1,7 +1,5 @@
 AllCops:
 NewCops: enable
-  Exclude:
-    - _site/**/*
 
 Metrics/LineLength:
   Enabled: true
