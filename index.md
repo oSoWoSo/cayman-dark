@@ -10,34 +10,34 @@ canonical_url: 'https://osowoso.xyz'
 
 ## void begginer friendly overlay
 
-You can find here: >>> [vb](https://vb.osowoso.xyz) <<<
+You can find here: >>> [vb](https://vb.osowoso.xyz){: .btn-green}
 
 
 # quickemu
 
-Fork you can find here: >>> [quickemu](https://quickemu.osowoso.xyz)
+Fork you can find here: >>> [quickemu](https://quickemu.osowoso.xyz){: .btn-green}
 
 # easybasgui
 
-Fork you can find here: >>> [easybashgui](https://easybashgui.osowoso.xyz)
+Fork you can find here: >>> [easybashgui](https://easybashgui.osowoso.xyz){: .btn-green}
 
 
 # repositories hosted on:
 - my personal gitea server
-- prefered ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo)
-- or ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo)
-- ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso)
-- ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso)
-- needed for contribution ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo) :(
+- prefered ![codeberg](./assets/img/codeberg.png)[codeberg.org](https://codeberg.org/oSoWoSo){: .btn-green}
+- or ![disroot](./assets/img/disroot.png)[disroot.org](https://git.disroot.org/oSoWoSo){: .btn-green}
+- ![sourcehut](./assets/img/sourcehut.png)[sourcehut](https://hg.sr.ht/~osowoso){: .btn-green}
+- ![gitlab](./assets/img/gitlab.png)[gitlab.com](https://gitlab.com/osowoso){: .btn-green}
+- needed for contribution ![github](./assets/img/github.png)[github.com](https://github.com/oSoWoSo){: .btn-green} :(
 - waiting for gitea federation support...
 - and looking at git-ssb
 
 _____________________________
-[covid19](./covid.md)
+[covid19](./covid.md){: .btn-green}
 
 
 _____________________________
-builded with [jekyll](https://jekyllrb.com/)
+builded with [jekyll](https://jekyllrb.com/){: .btn-green}
 
 licensed under
-[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
+[EUPL 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12){: .btn-green}
