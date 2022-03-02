@@ -5,7 +5,7 @@ jobs:
     name: script/cibuild
     steps:
       - uses: actions/checkout@v2
-      - uses: ruby/setup-ruby@v1
+      - uses: ruby/setup-ruby
       
       - name: build
         run: script/bootstrap --incremental --trace --watch
